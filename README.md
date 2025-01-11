@@ -2,6 +2,10 @@
 
 
 
-##### Projeto de um jogo simples em C e C++
+### Projeto de um Jogo da Forca simples em C.
 
 
+
+
+
+## 
