@@ -56,5 +56,5 @@ void jogarForca() {
 
 int main() {
     jogarForca();
-    return 0;
+    system("pause");
 }
