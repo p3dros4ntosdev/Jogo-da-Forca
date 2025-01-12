@@ -2,7 +2,7 @@
 
 
 
-#### Projeto de um Jogo da Forca simples em C.
+#### Projeto de um Jogo da Forca simples feito em C.
 
 
 
